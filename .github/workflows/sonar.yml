@@ -1,4 +1,4 @@
-name: SonarCloud Code Analysis
+name: SonarQube  Analysis
 
 on:
   pull_request:
