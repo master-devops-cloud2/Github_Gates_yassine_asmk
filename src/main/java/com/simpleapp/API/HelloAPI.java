@@ -9,6 +9,6 @@ public class HelloAPI {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello, GitHub!";
+        return "Hello, Teacher!";
     }
 }
