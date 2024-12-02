@@ -10,6 +10,7 @@ public class HelloAPI {
     @GetMapping("/hello")
     public String sayHello() {
       
-        return "Hello, again!";
+        return "see you, Teacher!";
+
     }
 }
