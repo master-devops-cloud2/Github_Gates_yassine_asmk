@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com</groupId>
-    <artifactId>simple-app</artifactId>
+    <artifactId>Github_Gates_yassine_asmk</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>simple-app</name>
     <description>simple-app</description>
